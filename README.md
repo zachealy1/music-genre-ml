@@ -27,24 +27,14 @@ This project requires Python 3.7 or above and the following packages:
 - `matplotlib` and `seaborn` (for visualisations)
 - `tensorflow` or `torch` (if using deep learning models)
 
-Install the dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Getting Started
 
 1. **Clone the repository:**
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+cd music-genre-ml
 ```
-2. **Install dependencies:**
-```bash
-pip install -r requirements.txt
-```
-3. **Run the Notebooks:** Open each notebook in Jupyter to explore or train the models:
+2. **Run the Notebooks:** Open each notebook in Jupyter to explore or train the models:
 ```bash
 jupyter notebook
 ```
