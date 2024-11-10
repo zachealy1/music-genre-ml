@@ -72,4 +72,4 @@ jupyter notebook
 After training, the notebooks provide results such as:
 
 - Classification accuracy for genre prediction.
-- Personalized recommendations or taste analysis metrics.
+- Personalised recommendations or taste analysis metrics.
